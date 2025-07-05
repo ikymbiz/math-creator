@@ -1,0 +1,25 @@
+# Development
+flake8
+python-dotenv
+pyyaml
+
+# Logging
+python-json-logger
+
+# Web Framework
+streamlit==1.28.1
+
+# Utilities
+python-dateutil
+pytz
+numpy
+pandas
+requests
+
+# Vis
+matplotlib
+
+# PDF Generation
+reportlab==4.0.4
+
+
